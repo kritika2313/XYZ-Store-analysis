@@ -12,3 +12,6 @@ Welcome to the XYZ Store Sales Dashboard! This tool provides a comprehensive ana
 📋 Requirements
 💻 Microsoft Excel 2016 or later.
 📚 Basic knowledge of Excel, including navigation and data input.
+
+![image](https://github.com/user-attachments/assets/94560632-a657-43be-a49f-ea4bc75e2e74)
+
